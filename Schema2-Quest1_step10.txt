@@ -1,0 +1,7 @@
+Expliquer comment procéder normalement pour réaliser l’étape 7. Pourquoi est-ce impossible dans packet tracer en mettant les commandes cisco dans un fichier texte ?
+
+il est impossible dans packet tracer de mettre des commandes dans un fichier txt car ,
+ cisco pas les fichier .txt , les script ou les copier coller avec plusieur ligne.
+De plus pour présciser au niveaux des ficchiers txt les routeurs ou pc dans packet tracer non pas de vrai os ,
+donc pas de gestion de fichiers.Ce qui empeche le stockage, lecture ou execution d un fichier txt.
+C'est donc pour cela qu'on tape directement les commandes manuellement.
